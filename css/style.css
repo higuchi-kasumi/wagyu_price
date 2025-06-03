@@ -65,4 +65,5 @@ footer {
 .card{
   flex: 1 1 calc((100% - 130px) / 4)!important; 
   margin-bottom: 15px!important;
+  border-radius: 0;
 }
